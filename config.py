@@ -15,6 +15,6 @@ REPO_NAME = 'ArXivDaily_AGN'
 NEW_SUB_URL = 'https://arxiv.org/list/astro-ph/new'
 
 # Keywords to search
-KEYWORD_LIST = ["AGN", "active galactic nuclei", "outflow", "IFU", "Hot DOG", "Obscured AGN", "molecular gas", "inoized gas", "Little Red Dot"]
+KEYWORD_LIST = ["AGN", "active galactic nuclei", "outflow", "Feedback", "quenching", "IFU", "Hot DOG", "Obscured AGN", "molecular gas", "inoized gas", "Little Red Dot"]
 # Keywords to exclude
 KEYWORD_EX_LIST = []
